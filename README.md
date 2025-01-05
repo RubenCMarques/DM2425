@@ -5,6 +5,9 @@ Repository for the Data Mining curricular unit Project in the Master's program D
 Students involved:
 
 Chloé Deschanel, 20240693
+
 Diogo Carvalho, 20240694
+
 Ingrid Gil Lopez, 20240692
+
 Rúben Marques, 20240352
